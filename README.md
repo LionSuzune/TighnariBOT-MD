@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://telegra.ph/file/8e21d9b169a2feecd14f7.jpg" width="100%" style="margin-left: auto;margin-right: auto;display: block;">
+    <img src="https://telegra.ph/file/04b16b8138d8a507665a0.jpg" width="100%" style="margin-left: auto;margin-right: auto;display: block;">
 </p>
 <h1 align="center">TIGHNARI BOTZ</h1>
 <p align="center">
